@@ -12,6 +12,11 @@ svg {
 	fill: red;
 	stroke: black;
 	stroke-width: 1px;
+	
+	transform-origin: center;
+	transform-box: fill-box;
+
+	transition: 0.5s;
 }
 
 #mouth.upside-down {
