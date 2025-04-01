@@ -1,0 +1,19 @@
+svg {
+	height: 100vh;
+}
+
+#nose {
+	fill: pink;
+	stroke: black;
+	stroke-width: 0.5px;
+}
+
+#mouth {
+	fill: red;
+	stroke: black;
+	stroke-width: 1px;
+}
+
+#mouth.upside-down {
+	transform: rotate(180deg);
+}

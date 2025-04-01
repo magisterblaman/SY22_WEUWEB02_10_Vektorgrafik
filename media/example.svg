@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: aqua;
+        stroke-miterlimit: 10;
+        stroke-width: 12px;
+      }
+
+      .cls-2 {
+        fill: #ff1d25;
+      }
+
+      .cls-3 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 72px;
+      }
+
+      .cls-4 {
+        fill: #f0f;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Lager_1">
+      <g>
+        <rect class="cls-4" x="387" y="152" width="242" height="307"/>
+        <path d="M627,154v303h-238V154h238M631,150h-246v311h246V150h0Z"/>
+      </g>
+      <g>
+        <path class="cls-2" d="M329,377c-89.3,0-162-57.2-162-127.5s72.7-127.5,162-127.5,162,57.2,162,127.5-72.7,127.5-162,127.5Z"/>
+        <path d="M329,124c88.2,0,160,56.3,160,125.5s-71.8,125.5-160,125.5-160-56.3-160-125.5,71.8-125.5,160-125.5M329,120c-90.6,0-164,58-164,129.5s73.4,129.5,164,129.5,164-58,164-129.5-73.4-129.5-164-129.5h0Z"/>
+      </g>
+      <polygon class="cls-1" points="835 164 610 110 677 390 960 379 949 202 835 164"/>
+      <text class="cls-3" transform="translate(463 448.6)"><tspan x="0" y="0">HEJHEJ</tspan></text>
+    </g>
+  </g>
+</svg>
